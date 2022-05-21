@@ -1,4 +1,19 @@
 # cd-ls
+<hr/>
+Fork from (zshzoo/cd-ls)[https://github.com/zshzoo/cd-ls].
+
+Replace command `ls` to `l`(I have use `exa` to replace `ls`).
+
+Before:
+
+![image](https://user-images.githubusercontent.com/57695072/169652467-167776a0-3847-4bb3-86d5-dcd72f06fff6.png)
+
+after:
+
+![image](https://user-images.githubusercontent.com/57695072/169652594-2dbcc08c-b6b4-41ef-a6c3-347103408fad.png)
+
+
+<hr/>
 
 [![License](https://img.shields.io/badge/license-MIT-007EC7)](/LICENSE)
 [![built for](https://img.shields.io/badge/built%20for-%20%F0%9F%A6%93%20zshzoo-black)][zshzoo]
